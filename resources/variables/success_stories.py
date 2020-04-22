@@ -1,0 +1,7 @@
+success_stories_url = "https://sonataservices.com/success-stories"
+success_stories_cisco_banner = "//html[1]/body[1]/main[1]/section[1]/section[1]/div[1]/div[2]/ol[1]/li[1]/button[1]"
+success_stories_ibm_banner = "//html[1]/body[1]/main[1]/section[1]/section[1]/div[1]/div[2]/ol[1]/li[2]/button[1]"
+success_stories_fox_banner = "//html[1]/body[1]/main[1]/section[1]/section[1]/div[1]/div[2]/ol[1]/li[3]/button[1]"
+success_stories_mobitv_banner = "//html[1]/body[1]/main[1]/section[1]/section[1]/div[1]/div[2]/ol[1]/li[4]/button[1]"
+success_stories_taylormade_banner = "//html[1]/body[1]/main[1]/section[1]/section[1]/div[1]/div[2]/ol[1]/li[5]/button[1]"
+success_stories_pra_healthsciences_banner = "//html[1]/body[1]/main[1]/section[1]/section[1]/div[1]/div[2]/ol[1]/li[6]/button[1]"

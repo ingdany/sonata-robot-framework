@@ -1,0 +1,8 @@
+careers_url = "https://sonataservices.com/careers"
+careers_send_us_resume = "//a[@class='btn btn-primary']"
+careers_first_job_position = "//html[1]/body[1]/main[1]/section[1]/div[5]/div[2]/div[1]/div[1]/div[2]/p[3]"
+careers_job_position_panel = "//aside[@class='modal modalOpen']"
+careers_share = "//*[@id='app']/section/div[5]/div[3]/aside/div[2]/div[1]/div/div/div[2]/div/div/img"
+careers_twitter = "//*[@data-link='#share-twitter']"
+careers_close = "//*[@id='app']/section/div[5]/div[3]/aside/div[2]/div[1]/div/div/div[2]/span"
+careers_modal = "//*[@id='app']/section/div[5]/div[3]/aside"

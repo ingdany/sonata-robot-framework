@@ -1,0 +1,5 @@
+about_us_url = "https://sonataservices.com/about-us"
+about_us_wannagobig = "//*[@id='app']/section/div[2]/div[1]/div[2]"
+about_us_secure_facilities = "//*[@id='app']/section/div[2]/div[2]/div[2]"
+about_us_seamless_support = "//*[@id='app']/section/div[2]/div[3]/div[2]"
+about_us_footer = "//*[@id='app']/footer/div[2]"
